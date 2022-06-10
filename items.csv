@@ -1,6 +1,6 @@
-name, price, quantity
-"phone", 100, 50
-"Laptop", 500, 3
-"cable", 10, 5
-"mouse", 75, 3
-"keyboard", 50, 3
+name,price,quantity
+"phone",100,50
+"Laptop",500,3
+"cable",10,5
+"mouse",75,3
+"keyboard",50,3
