@@ -1,5 +1,6 @@
 from Items import Item
 
+
 class Phone(Item):
     def __init__(self, name: str, price: float, quantity: int, broken_phones=0):
         #call to super to have access to all attributes and methods from the parent class Item
